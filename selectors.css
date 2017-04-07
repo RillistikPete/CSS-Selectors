@@ -1,0 +1,45 @@
+header {
+	border: 1px solid black;
+	color: cyan;
+}
+
+.headul {
+	display: inline-block;
+	list-style-type: none;
+}
+
+.disabled {
+	color: gray;
+}
+
+.disabled a{
+	color: purple;
+}
+.active {
+	color: yellow;
+}
+.reddiv {
+	color: red;
+}
+.bluediv {
+	color: blue;
+}
+.redsis {
+	background-color: red;
+}
+.bluebro {
+	background-color: blue;
+}
+
+.promo {
+	font-weight: bold;
+	color: gold;
+}
+.grandparent {
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.padded input {
+	height: 25px;
+}
